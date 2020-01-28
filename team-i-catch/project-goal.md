@@ -1,6 +1,6 @@
 
 # Fraudulent data
-
+There are billions of banking transactions in the U.S. alone every year.  A small portion of those transactions are fraudulent, which can have devastating results to all parties involved.  
 
 # Dataset
 
@@ -20,3 +20,4 @@ The data are available here: https://www.kaggle.com/ntnu-testimon/paysim1
 
 
 # End goal
+A predictive classification model that can detect whether a transation is fraudulent. The final model should accurately predict transactions from the current dataset.  However, the final goal would be to extend the model capabilities to financial transactions from other months and other countries.  
